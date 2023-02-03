@@ -1,0 +1,127 @@
+.ctr {
+    text-align: center;
+}
+
+
+#hd {
+    background-color:honeydew;
+}
+
+
+.ixtitle {
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-size: 80px;
+}
+
+
+.ptitle {
+    font-size: 65px;
+    margin-bottom: 10px;
+}
+
+
+.ixtitle,
+.ptitle {
+    font-family: "Courier New", Arial, monospace;
+}
+
+
+.ilist {
+    padding-left: 625px;
+    padding-right: 625px;
+}
+
+
+.ili {
+    padding-bottom: 20px;
+}
+
+
+#igif {
+    width: 1000px; 
+    height: auto;
+}
+
+
+.az {
+    background-color:azure;
+}
+
+
+.imgd {
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 18px;
+}
+
+
+.ingd {
+    list-style: none;
+}
+
+
+.slist {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+
+.bti {
+    margin-left: 710px;
+    margin-right: 750px;
+    margin-bottom: 120px;
+}
+
+
+.ilist,
+.imgd, 
+.ingd,
+.slist, 
+.bti {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.dish {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.dish.ms {
+    width: 800px;
+    height: auto;
+}
+
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    margin-top: 100px;
+}
+
+
+.ingd li {
+    padding-bottom: 15px;
+}
+
+
+.ingd,
+.slist {
+    font-size: 22px;
+}
+
+
+.slist,
+.bti {
+    margin-bottom: 85px;
+}
+
+
+.ilist,
+.bti {
+    font-size: 30px;
+}
+
