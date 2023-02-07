@@ -30,6 +30,7 @@
 .ilist {
     padding-left: 625px;
     padding-right: 625px;
+    list-style: none;
 }
 
 
@@ -69,8 +70,8 @@
 
 
 .bti {
-    margin-left: 710px;
-    margin-right: 750px;
+    margin-left: 1225px;
+    margin-right: 1225px;
     margin-bottom: 120px;
 }
 
